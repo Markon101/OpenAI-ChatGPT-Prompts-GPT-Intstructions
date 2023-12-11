@@ -7,9 +7,9 @@
 #include <mutex>
 #include <queue>
 
-const int WIDTH = 800;
-const int HEIGHT = 600;
-const int PIXEL_SIZE = 10;
+const int WIDTH = 1280;
+const int HEIGHT = 1280;
+const int PIXEL_SIZE = 4;
 const int NUM_THREADS = 8;
 
 struct PixelInfo {
